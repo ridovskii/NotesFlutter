@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/ridovskii/onetest/flutter/note/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/ridovskii/onetest/flutter/note/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/ridovskii/onetest/flutter/note/build/ios/Debug-iphoneos/Flutter.framework/Modules/module.modulemap \
+  /Users/ridovskii/onetest/flutter/note/build/ios/Debug-iphoneos/Flutter.framework/Headers/Flutter.h \
+  /Users/ridovskii/onetest/flutter/note/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/ridovskii/onetest/flutter/note/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/ridovskii/onetest/flutter/note/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/ridovskii/onetest/flutter/note/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/ridovskii/onetest/flutter/note/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/ridovskii/onetest/flutter/note/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/ridovskii/onetest/flutter/note/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/ridovskii/onetest/flutter/note/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/ridovskii/onetest/flutter/note/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/ridovskii/onetest/flutter/note/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/ridovskii/onetest/flutter/note/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/ridovskii/onetest/flutter/note/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/ridovskii/onetest/flutter/note/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/ridovskii/onetest/flutter/note/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/ridovskii/onetest/flutter/note/build/ios/Debug-iphoneos/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/ridovskii/onetest/flutter/note/build/ios/Debug-iphoneos/isar_flutter_libs/isar_flutter_libs.framework/Headers/IsarFlutterLibsPlugin.h \
+  /Users/ridovskii/onetest/flutter/note/build/ios/Debug-iphoneos/isar_flutter_libs/isar_flutter_libs.framework/Modules/module.modulemap \
+  /Users/ridovskii/onetest/flutter/note/build/ios/Debug-iphoneos/isar_flutter_libs/isar_flutter_libs.framework/Headers/isar_flutter_libs-umbrella.h \
+  /Users/ridovskii/onetest/flutter/note/build/ios/Debug-iphoneos/isar_flutter_libs/isar_flutter_libs.framework/Headers/binding.h \
+  /Users/ridovskii/onetest/flutter/note/build/ios/Debug-iphoneos/isar_flutter_libs/isar_flutter_libs.framework/Headers/isar_flutter_libs-Swift.h \
+  /Users/ridovskii/onetest/flutter/note/build/ios/Debug-iphoneos/path_provider_foundation/path_provider_foundation.framework/Modules/module.modulemap \
+  /Users/ridovskii/onetest/flutter/note/build/ios/Debug-iphoneos/path_provider_foundation/path_provider_foundation.framework/Headers/path_provider_foundation-umbrella.h \
+  /Users/ridovskii/onetest/flutter/note/build/ios/Debug-iphoneos/path_provider_foundation/path_provider_foundation.framework/Headers/path_provider_foundation-Swift.h

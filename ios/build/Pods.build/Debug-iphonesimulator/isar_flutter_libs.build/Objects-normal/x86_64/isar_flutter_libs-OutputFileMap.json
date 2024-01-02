@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/ridovskii/onetest/flutter/note/ios/build/Pods.build/Debug-iphonesimulator/isar_flutter_libs.build/Objects-normal/x86_64/isar_flutter_libs-master.dia",
+    "emit-module-dependencies" : "/Users/ridovskii/onetest/flutter/note/ios/build/Pods.build/Debug-iphonesimulator/isar_flutter_libs.build/Objects-normal/x86_64/isar_flutter_libs-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/ridovskii/onetest/flutter/note/ios/build/Pods.build/Debug-iphonesimulator/isar_flutter_libs.build/Objects-normal/x86_64/isar_flutter_libs-master-emit-module.dia",
+    "swift-dependencies" : "/Users/ridovskii/onetest/flutter/note/ios/build/Pods.build/Debug-iphonesimulator/isar_flutter_libs.build/Objects-normal/x86_64/isar_flutter_libs-master.swiftdeps"
+  },
+  "/Users/ridovskii/.pub-cache/hosted/pub.dev/isar_flutter_libs-3.1.0+1/ios/Classes/SwiftIsarFlutterLibsPlugin.swift" : {
+    "const-values" : "/Users/ridovskii/onetest/flutter/note/ios/build/Pods.build/Debug-iphonesimulator/isar_flutter_libs.build/Objects-normal/x86_64/SwiftIsarFlutterLibsPlugin.swiftconstvalues",
+    "dependencies" : "/Users/ridovskii/onetest/flutter/note/ios/build/Pods.build/Debug-iphonesimulator/isar_flutter_libs.build/Objects-normal/x86_64/SwiftIsarFlutterLibsPlugin.d",
+    "diagnostics" : "/Users/ridovskii/onetest/flutter/note/ios/build/Pods.build/Debug-iphonesimulator/isar_flutter_libs.build/Objects-normal/x86_64/SwiftIsarFlutterLibsPlugin.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/isar_flutter_libs.build/Objects-normal/x86_64/SwiftIsarFlutterLibsPlugin.o",
+    "llvm-bc" : "/Users/ridovskii/onetest/flutter/note/ios/build/Pods.build/Debug-iphonesimulator/isar_flutter_libs.build/Objects-normal/x86_64/SwiftIsarFlutterLibsPlugin.bc",
+    "object" : "/Users/ridovskii/onetest/flutter/note/ios/build/Pods.build/Debug-iphonesimulator/isar_flutter_libs.build/Objects-normal/x86_64/SwiftIsarFlutterLibsPlugin.o",
+    "swift-dependencies" : "/Users/ridovskii/onetest/flutter/note/ios/build/Pods.build/Debug-iphonesimulator/isar_flutter_libs.build/Objects-normal/x86_64/SwiftIsarFlutterLibsPlugin.swiftdeps",
+    "swiftmodule" : "/Users/ridovskii/onetest/flutter/note/ios/build/Pods.build/Debug-iphonesimulator/isar_flutter_libs.build/Objects-normal/x86_64/SwiftIsarFlutterLibsPlugin~partial.swiftmodule"
+  }
+}
